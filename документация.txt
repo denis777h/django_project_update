@@ -1,0 +1,12 @@
+django проект выполнен в  IDE PyCharm 
+
+адрес http://127.0.0.1:4444/admin
+проект имеет страницы
+
+/contact/
+/contact1/
+/contact2/
+
+
+пользователь admin
+пароль 12345678
